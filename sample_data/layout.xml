@@ -1,0 +1,51 @@
+<LinearLayout 
+  android:id="@+id/ding_dan" 
+  android:background="@drawable/card_avatar_bar"
+  android:layout_width="match_parent" 
+  android:layout_height="wrap_content">
+  <TextView 
+    android:layout_width="0dp" 
+    android:layout_height="wrap_content" 
+    android:layout_weight="1" 
+    android:layout_marginTop="@dimen/keyline_1" 
+    android:layout_marginBottom="@dimen/keyline_1" 
+    android:layout_marginLeft="@dimen/keyline_1" 
+    android:text="团购订单" 
+    android:layout_gravity="center_vertical"  
+    android:drawableLeft="@drawable/ic_group_order_enable" 
+    android:drawablePadding="@dimen/keyline_1"/>
+  <TextView 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="4" 
+    android:drawableRight="@drawable/ic_global_arrow_right_2px" 
+    android:drawablePadding="@dimen/keyline_1" 
+    android:layout_gravity="center_vertical" 
+    android:layout_marginRight="@dimen/keyline_1"/>
+</LinearLayout>
+
+<LinearLayout 
+  android:id="@+id/yuding" 
+  android:background="@drawable/card_avatar_bar"
+  android:layout_width="match_parent" 
+  android:layout_height="wrap_content">
+  <TextView 
+    android:layout_width="0dp" 
+    android:layout_height="wrap_content" 
+    android:layout_weight="1" 
+    android:layout_marginTop="@dimen/keyline_1" 
+    android:layout_marginBottom="@dimen/keyline_1" 
+    android:layout_marginLeft="@dimen/keyline_1" 
+    android:text="预订订单" 
+    android:layout_gravity="center_vertical"  
+    android:drawableLeft="@drawable/ic_reserve_order_enable" 
+    android:drawablePadding="@dimen/keyline_1"/>
+  <TextView 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="0" 
+    android:drawableRight="@drawable/ic_global_arrow_right_2px" 
+    android:drawablePadding="@dimen/keyline_1" 
+    android:layout_gravity="center_vertical" 
+    android:layout_marginRight="@dimen/keyline_1"/>
+</LinearLayout>
