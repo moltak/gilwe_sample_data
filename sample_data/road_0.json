@@ -1,0 +1,70 @@
+{
+  "id": 0,
+  "title": "사랑할때 걷기 좋은길",
+  "author": "세일",
+  "address": "서울 역삼 1동",
+  "distance": 13,
+  "duration": 90,
+  "bookMarkCount":3,
+  "isBookMarked": true,
+  "spots": 
+  [
+    {
+      "id": 0,
+      "lat": "37.402977000",
+      "lng": "127.103962000",
+      "distance": "1",
+      "time": "2017-02-24T23:00:00Z",
+      "text": "text 1",
+      "address": "주소",
+      "images": [{
+        "url": "https://lh6.googleusercontent.com/BnStajtvI_4b78ygtUj8R3PY8C0yv7jEFOTO7uKKgWPzQEOQtTYHDzY72UH2-2w8asJgT6TnSiqCoCc=w1920-h985", 
+        "favorite": true, 
+        "comments": [
+          {"author": "경호", "text": "우와아"}
+        ]
+      }]
+    },
+    {
+      "id": 1,
+      "distance": 2,
+      "lat": "37.402329000",
+      "lng": "127.104284000",
+      "time": "2017-02-24T23:03:59Z",
+      "text": "text 2",
+      "images": [
+        "url": "https://lh4.googleusercontent.com/foNXtT00ITV4WvBdSz4iGFbDIQxEbrAkPkS1hNcl_8-6igMejTqzVetc6luJA8vsNvfTMI8-3bErnOg=w1920-h985" 
+      ]
+    },
+    {
+      "id": 2,
+      "distance": 2,
+      "lat": "37.401127000",
+      "lng": "127.104907000",
+      "time": "2017-02-24T23:11:26Z",
+      "text": "text 3",
+      "images": [
+        "url": "https://lh5.googleusercontent.com/V2o0KbvTTmt04gPVx8g8JcDXwN_YMBdp3WiLq-yVJ_qHCbvfTZHpIPGPNU_4pBsO2zWu1qk5Ahr1D-s=w1920-h985"
+      ]
+    },
+    {
+      "id": 3,
+      "distance": 2,
+      "text": "text 4",
+      "lat": "37.401127000",
+      "lng": "127.104907000",
+      "time": "2017-02-24T23:11:26Z",
+      "images": [
+        "url": "https://lh5.googleusercontent.com/V2o0KbvTTmt04gPVx8g8JcDXwN_YMBdp3WiLq-yVJ_qHCbvfTZHpIPGPNU_4pBsO2zWu1qk5Ahr1D-s=w1920-h985"
+      ]
+    },
+    {
+      "id": 4,
+      "distance": 3,
+      "text": "text 5",
+      "lat": "37.400556000",
+      "lng": "127.105218000",
+      "time": "2017-02-24T23:15:00Z"
+    }
+  ]
+}
