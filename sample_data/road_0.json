@@ -32,9 +32,10 @@
       "lng": "127.104284000",
       "time": "2017-02-24T23:03:59Z",
       "text": "text 2",
-      "images": [
-        "url": "https://lh4.googleusercontent.com/foNXtT00ITV4WvBdSz4iGFbDIQxEbrAkPkS1hNcl_8-6igMejTqzVetc6luJA8vsNvfTMI8-3bErnOg=w1920-h985" 
-      ]
+      "images": [{
+        "url": "https://lh4.googleusercontent.com/foNXtT00ITV4WvBdSz4iGFbDIQxEbrAkPkS1hNcl_8-6igMejTqzVetc6luJA8vsNvfTMI8-3bErnOg=w1920-h985",
+        "favorite": false 
+      }]
     },
     {
       "id": 2,
@@ -43,9 +44,9 @@
       "lng": "127.104907000",
       "time": "2017-02-24T23:11:26Z",
       "text": "text 3",
-      "images": [
+      "images": [{
         "url": "https://lh5.googleusercontent.com/V2o0KbvTTmt04gPVx8g8JcDXwN_YMBdp3WiLq-yVJ_qHCbvfTZHpIPGPNU_4pBsO2zWu1qk5Ahr1D-s=w1920-h985"
-      ]
+      }]
     },
     {
       "id": 3,
@@ -54,9 +55,9 @@
       "lat": "37.401127000",
       "lng": "127.104907000",
       "time": "2017-02-24T23:11:26Z",
-      "images": [
+      "images": [{
         "url": "https://lh5.googleusercontent.com/V2o0KbvTTmt04gPVx8g8JcDXwN_YMBdp3WiLq-yVJ_qHCbvfTZHpIPGPNU_4pBsO2zWu1qk5Ahr1D-s=w1920-h985"
-      ]
+      }]
     },
     {
       "id": 4,
